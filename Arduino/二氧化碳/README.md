@@ -8,8 +8,8 @@
 
 預留了相關接腳可用於資料顯示
 
-![](https://imgur.com/DbAx1p6.jpg)
+![](https://imgur.com/a/RBeWXmI.jpg)
 
-![](https://i.imgur.com/DQNnIsu.jpg)
+![](https://imgur.com/undefined.jpg)
 
 ![](https://i.imgur.com/cEjj5CO.jpg)
