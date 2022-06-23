@@ -10,4 +10,4 @@
 
 上層GND下層5V
 
-[picture or gif url](https://github.com/gtgrthrst/Maker/blob/main/60%E4%BD%8DWS2812%E7%87%88%E7%92%B0/Snipaste_2022-06-17_20-30-30.jpg)
+![picture or gif url](https://github.com/gtgrthrst/Maker/blob/main/60%E4%BD%8DWS2812%E7%87%88%E7%92%B0/Snipaste_2022-06-17_20-30-30.jpg)
