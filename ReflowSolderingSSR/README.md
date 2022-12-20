@@ -14,6 +14,10 @@ SSD1306做為顯示
 
 ![Snipaste_2022-12-20_22-03-03](https://user-images.githubusercontent.com/37490507/208685090-c755ff86-f26e-47dd-9271-fca8100e82eb.jpg)
 
+![Snipaste_2022-12-20_22-19-05](https://user-images.githubusercontent.com/37490507/208688225-6e488f23-ce69-461e-9017-436d82884b7a.jpg)
+
+
 BOM表可看
+
 http://htmlpreview.github.io/?https://github.com/gtgrthrst/Maker/blob/main/ReflowSolderingSSR/file/SSR_BOM.html
 ![image](https://user-images.githubusercontent.com/37490507/208687141-234b63cc-82cf-4fc2-a769-7425d2bacef3.png)
