@@ -13,3 +13,7 @@ SSD1306做為顯示
 目前使用樹莓派Pi Pico或相容RP2040作為主控
 
 ![Snipaste_2022-12-20_22-03-03](https://user-images.githubusercontent.com/37490507/208685090-c755ff86-f26e-47dd-9271-fca8100e82eb.jpg)
+
+BOM表可看
+http://htmlpreview.github.io/?https://github.com/gtgrthrst/Maker/blob/main/ReflowSolderingSSR/file/SSR_BOM.html
+![image](https://user-images.githubusercontent.com/37490507/208687141-234b63cc-82cf-4fc2-a769-7425d2bacef3.png)
