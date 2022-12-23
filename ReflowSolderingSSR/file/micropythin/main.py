@@ -25,7 +25,6 @@ i2c = SoftI2C(scl=Pin(1), sda=Pin(0), freq=400000)
 
 analog_value = machine.ADC(26)
 display = ssd1306.SSD1306_I2C(128, 64, i2c)
-graphics = gfx.GFX(128, 64, display.pixel)
 display.invert(0)      # 螢幕顏色正常
 #display.invert(1)      # 螢幕顏色反轉
 display.rotate(True)   #  螢幕旋轉180度
