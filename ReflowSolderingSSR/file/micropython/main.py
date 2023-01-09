@@ -61,7 +61,7 @@ while True:
     #print("y: ",y)
     x = -((49600*(5-y))/(155-831*y))
     #print("x: ",x)
-    T1 = round((B*(T_2+273.15))/(log(x/R)*(T_2+273.15)+B)-273.15 + Temp_cal,2)
+    T1 = round((B*(T_2+273.15))/(log(x/R)*(T_2+273.15)+B)-273.15 + Temp_cal,2)*1.1353+20.43
     #print("T1: ", T1)
     #print("log(10): ", log(10))
     display.text( "  V:", 0,10 , 1)
