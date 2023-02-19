@@ -1,8 +1,6 @@
 # 自製迴流焊台
 
-## Micropython使用說明
 
-https://hackmd.io/@LHB-0222/2022micropython
 
 使用NTC串並聯電路作為感溫器
 
@@ -30,3 +28,7 @@ BOM表可看
 
 http://htmlpreview.github.io/?https://github.com/gtgrthrst/Maker/blob/main/ReflowSolderingSSR/file/SSR_BOM.html
 ![image](https://user-images.githubusercontent.com/37490507/208687141-234b63cc-82cf-4fc2-a769-7425d2bacef3.png)
+
+## Micropython使用說明
+
+https://hackmd.io/@LHB-0222/2022micropython
