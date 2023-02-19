@@ -1,5 +1,9 @@
 # 自製迴流焊台
 
+## Micropython使用說明
+
+https://hackmd.io/@LHB-0222/2022micropython
+
 使用NTC串並聯電路作為感溫器
 
 ![311464565_544943040968657_2611280940600830307_n](https://user-images.githubusercontent.com/37490507/208689020-8d7e6102-d9b4-4a91-a66f-a16d7ba811b0.jpg)
