@@ -7,6 +7,7 @@ from machine import Pin, I2C,  SoftI2C, ADC
 from encoder import EncoderKnob
 import ssd1306
 import time
+import gfx
 R = 10000
 T_2 = 25
 B = 3950
@@ -25,6 +26,7 @@ i2c = SoftI2C(scl=Pin(1), sda=Pin(0), freq=400000)
 
 analog_value = machine.ADC(26)
 display = ssd1306.SSD1306_I2C(128, 64, i2c)
+graphics = gfx.GFX(128, 64, display.pixel)
 display.invert(0)      # 螢幕顏色正常
 #display.invert(1)      # 螢幕顏色反轉
 display.rotate(True)   #  螢幕旋轉180度
@@ -38,20 +40,16 @@ def rotated(amount):
         T4 = T3
         display.text( str(T3), 80,30 , 1)
         display.show() #  螢幕顯示
-
-
 def pressed():
     global power
     print("btn_callback")
     power = not power
     print(power)
     utime.sleep(0.5)
-    
-    
+     
 enc = EncoderKnob(19, 20, btn_pin=18, #rotary_callback=rotated,
                   btn_callback=pressed)
 #button = machine.Pin(18, machine.Pin.IN, machine.Pin.PULL_UP)
-
 while True:
     reading = analog_value.read_u16()
     #print("ADC: ",reading)
@@ -61,7 +59,7 @@ while True:
     #print("y: ",y)
     x = -((49600*(5-y))/(155-831*y))
     #print("x: ",x)
-    T1 = round((B*(T_2+273.15))/(log(x/R)*(T_2+273.15)+B)-273.15 + Temp_cal,2)*1.1353+20.43
+    T1 = round((B*(T_2+273.15))/(log(x/R)*(T_2+273.15)+B)-273.15 + Temp_cal,2)
     #print("T1: ", T1)
     #print("log(10): ", log(10))
     display.text( "  V:", 0,10 , 1)
@@ -112,5 +110,6 @@ while True:
     
     
         
+
 
 
