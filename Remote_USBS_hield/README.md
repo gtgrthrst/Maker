@@ -1,7 +1,7 @@
 # USB通訊遠端控制器：多功能USB安全管理與重啟助手
-USB通訊遠端控制
-器是一款靈活多用的USB連接安全管理和設備重啟輔助設備。這款控制器不僅提供高效的安全隔離功能和遠程設備重啟能力，還配備了先進的ESD保護，大大提升了其在各種環境中的應用範圍和可靠性。
-![USB遠端開關](https://github.com/user-attachments/assets/88d0f9f0-258c-4103-961e-c5e47ca02378)
+![Cream and White Simple Minimalist Digital Marketing Expert Facebook Post (Instagram 貼文 (方形)) (Facebook 貼文) (1)](https://github.com/user-attachments/assets/64d2f7b0-7c55-44e3-8f9d-0aa2ad943ab3)
+USB通訊遠端控制器是一款靈活多用的USB連接安全管理和設備重啟輔助設備。這款控制器不僅提供高效的安全隔離功能和遠程設備重啟能力，
+還配備了先進的ESD保護，大大提升了其在各種環境中的應用範圍和可靠性。
 主要功能：
 1. 多設備兼容性：支援各種USB設備的隔離和重啟，如硬碟、讀卡機等。
 2. 高效能隔離：採用高品質隔離IC，確保可靠的設備隔離。
@@ -33,6 +33,7 @@ ESD保護特性：
 5. 降低維護成本：減少因靜電損壞而進行的設備維修和更換。
 USB通訊遠端控制器的多功能特性使其成為USB設備安全管理、維護和保護的強大工具。它不僅能夠進行高效的設備隔離和遠程重啟，還能為敏感設備提供可靠的ESD防護，適應各種嚴格的安全、運維和環境需求。
 
+![USB遠端開關](https://github.com/user-attachments/assets/88d0f9f0-258c-4103-961e-c5e47ca02378)
 
 Note: The following is a translation from Chinese to English, performed by an AI assistant.
 # USB Communication Remote Controller: Multifunctional USB Security Management and Restart Assistant
